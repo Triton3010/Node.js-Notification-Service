@@ -1,0 +1,25 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "server side json parsing using node",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "aws-sdk": "^2.55.0",
+    "csvtojson": "^1.1.6",
+    "get-urls": "^7.0.0",
+    "https": "^1.0.0",
+    "kue": "^0.11.5",
+    "moment": "^2.18.1",
+    "mysql": "^2.13.0",
+    "q": "^1.5.0",
+    "s3": "^4.4.0",
+    "string-template": "^1.0.0",
+    "tracer": "^0.8.9"
+  }
+}
